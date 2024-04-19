@@ -7,4 +7,8 @@ i m from remote
 again maaking changes from remote
 sdgfkjdscnhlksdn
 bye
+<<<<<<< HEAD
 >>>>>>> f9faf17fa34440c8800f756250414ec267f6bccd
+=======
+>>>>>>> f9faf17fa34440c8800f756250414ec267f6bccd
+2nd branch
